@@ -1276,6 +1276,7 @@
   <Resource Name="admin.common.exporttoexcel"><Value>Экспорт в Excel</Value></Resource>
   <Resource Name="admin.common.exporttoexcel.all"><Value>Экспорт в Excel (все найдено)</Value></Resource>
   <Resource Name="admin.common.exporttoexcel.selected"><Value>Экспорт в Excel (выбрано)</Value></Resource>
+  <Resource Name="admin.common.filters"><Value>Фильтры</Value></Resource>
   <Resource Name="admin.common.go"><Value>Идти</Value></Resource>
   <Resource Name="admin.common.hide"><Value>Скрывать</Value></Resource>
   <Resource Name="admin.common.importfromcsv"><Value>Импорт из CSV</Value></Resource>
